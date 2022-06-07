@@ -7,7 +7,7 @@ numpy
 anyio==3.4.0
 astroid==2.6.5
 asttokens==2.0.5
-async-firebase==2.0.1
+async-firebase
 bcrypt==3.2.0
 bitstring==3.1.9
 cachetools==4.2.4
@@ -23,7 +23,7 @@ ecdsa==0.17.0
 esptool==3.1
 firebase==3.0.1
 gcloud==0.18.3
-google-auth==2.1.0
+google-auth
 googleapis-common-protos==1.53.0
 h11==0.12.0
 httpcore==0.14.3
